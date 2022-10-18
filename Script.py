@@ -29,8 +29,8 @@ class script(object):
 
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/Pooja0033/EvaMaria  
+- Rolex is a open source project. 
+- Source - https://t.me/Prv_35
 
 <b>DEVS:</b>
 - <a href=https://t.me/kmtz_channel_v3>Team KMTZ </a>"""
