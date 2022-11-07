@@ -24,11 +24,11 @@
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Get this value from https://my.telegram.org ",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Get this value from https://my.telegram.org ",
             "required": true
         },
         "CHANNELS": {
@@ -56,11 +56,11 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/gBLTsH-IXr0",
+            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video ",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/gBLTsH-IXr0",
+            "description": "Name of the database in mongoDB. For more help watch this video ",
             "required": false
         },
         "COLLECTION_NAME": {
