@@ -15,13 +15,13 @@ Very Sempil Bot Auto Filter bot
   <b> 𝙿𝚁𝙰𝙽𝙰𝚅 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3 </b>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/Pooja0033/Prv_35/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/Pooja0033/Prv_35/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/Pooja0033/Prv_35/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Pooja0033/Prv_35)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/Pooja0033/Prv_35/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+
+
+
+
+
+
+
 
 
 ## Features
@@ -75,7 +75,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/Pooja0033/Prv_35
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
