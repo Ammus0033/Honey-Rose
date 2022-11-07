@@ -1,6 +1,7 @@
 {
     "name": "PrvBot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "logo": "https://i.ibb.co/SrYpdxT/file-169.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
